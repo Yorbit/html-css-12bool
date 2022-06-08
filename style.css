@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-blue {
+    background-color: #006cfa;
+}
+
+.bg-green {
+    background-color: #00e165;
+}
