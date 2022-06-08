@@ -26,6 +26,52 @@
     padding: 14px;
 }
 
+.p-20 {
+    padding: 20px;
+}
+
 .mn-h {
     min-height: 50px;
+}
+
+.white {
+    color: white;
+}
+
+.bord {
+    border: 1px solid white;
+}
+
+.j-end {
+    justify-content: end;
+}
+
+.h {
+    height: 100px;
+}
+
+.end {
+    align-self: flex-end;
+}
+
+.al-cent {
+    align-self: center;
+}
+
+.baseline {
+    align-self: baseline;
+}
+
+.around {
+    justify-content: space-around;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.inline {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }

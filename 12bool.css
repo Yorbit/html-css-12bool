@@ -140,3 +140,15 @@
 .col-offset-11 {
     margin-left: calc((100% / 12) * 11);
 }
+
+/* Small */
+
+@media all and (min-width: 576px) {}
+
+/* Medium */
+
+@media all and (min-width: 768px) {}
+
+/* Large */
+
+@media all and (min-width: 992px) {}
